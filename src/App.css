@@ -1,0 +1,51 @@
+#root {
+  text-align: center;
+  background: linear-gradient(45deg, #222 0%, #330033 100%);
+  height: 100vh;
+  width: 100vw;
+  color: white;
+}
+
+.main {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('/bkg.png');
+  background-size: cover;
+}
+
+.mirror-container {
+  position: relative;
+  height: 500px;
+  max-height: 500px;
+  min-height: 500px;
+  aspect-ratio: 16/9;
+  background-color: black;
+  background-image: url('/mirror-complete.png');
+  background-size: cover;
+  border: 8px solid white;
+  box-shadow: 0 0 30px white;
+}
+
+.footer {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .5rem;
+  padding-bottom: 1rem;
+}
+
+.mirror-details {
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  border: 5px solid white;
+}

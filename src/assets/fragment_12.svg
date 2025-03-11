@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370.18 318.65">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 125px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <polygon class="cls-2" points="41.13 318.65 0 78.15 160.41 0 359.9 0 370.18 255.25 41.13 318.65"/>
+      <text class="cls-1" transform="translate(135.73 196.71)"><tspan x="0" y="0">12</tspan></text>
+    </g>
+  </g>
+</svg>
