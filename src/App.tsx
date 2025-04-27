@@ -8,7 +8,7 @@ function App() {
       <MirrorInterface />
       <div className="footer">
         <div>This app was built on top of the excellent work of <a href="https://demajen.co.uk/">Demajen</a>. Please consider giving him a donation: <a href="https://ko-fi.com/demajen">Demajen Ko-fi</a> </div>
-        <div>Made with ❤️  by <a href="https://github.com/DaRizat">DaRizat</a></div>
+        <div>Made with ❤️  by <a href="https://reddit.com/user/DaRizat">DaRizat</a></div>
       </div>
     </div>
   )
